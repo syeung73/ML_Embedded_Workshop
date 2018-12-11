@@ -1,4 +1,4 @@
-# Machine Learning for Edge - Edge - Embedded Systems (DNNDK Tool Chain)
+# Machine Learning for Edge - Embedded Systems (DNNDK Tool Chain)
 
 ## Introduction
 Welcome to the Machine Learning Strategies for Edge lab. During this session you will gain hands-on experience with Deephi DNNDK, and learn how to quantize, compile and deploy pre-trained network models to Xilinx embedded SoC platforms. 
