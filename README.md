@@ -1,8 +1,7 @@
-F# Xilinx Machine Learning Live
 # Machine Learning for Edge - Edge - Embedded Systems (DNNDK Tool Chain)
 
 ## Introduction
-Welcome to the XDF 2018 machine learning for embedded workshop. During this session you will gain hands-on experience with Deephi DNNDK, and learn how to quantize, compile and deploy pre-trained network models to Xilinx embedded SoC platforms. 
+Welcome to the Machine Learning Strategies for Edge lab. During this session you will gain hands-on experience with Deephi DNNDK, and learn how to quantize, compile and deploy pre-trained network models to Xilinx embedded SoC platforms. 
 
 ### Overview of DNNDK flow
 The architecture DNNDK and its development flow are pictured below:
