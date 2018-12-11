@@ -1,5 +1,5 @@
-F# XDF 2018 Workshop 
-# Machine Learning for Embedded
+F# Xilinx Machine Learning Live
+# Machine Learning for Edge - Edge - Embedded Systems (DNNDK Tool Chain)
 
 ## Introduction
 Welcome to the XDF 2018 machine learning for embedded workshop. During this session you will gain hands-on experience with Deephi DNNDK, and learn how to quantize, compile and deploy pre-trained network models to Xilinx embedded SoC platforms. 
@@ -47,21 +47,18 @@ For this event, each registered participant will be required to start an EC2 P2 
 You should have received a piece of paper which has the Account ID, IAM user name and Password.
 
     Account ID: xilinx-aws-f1-developer-labs
-    IAM User name: userxx (for example: user7)
-    Password: xdf_deephi
+    IAM User name: user90xx (for example: user9001)
+    Password: sand_xdfd
 
 If you don’t have it, please raise your hand and ask for help.
 
 1. User your web browser to visit the following URL:
 
-   For APAC / Japan, 
-   https://console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#Instances:tag:Name=\<your IAM user name\>;sort=tag:Name
-   
    For US / Canada,
    https://console.aws.amazon.com/ec2/v2/home?region=us-west-2#Instances:tag:Name=\<your IAM user name\>;sort=tag:Name
 
-   For example, assume you are in China, if your user name is "user7", the correct URL would be:
-    https://console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#Instances:tag:Name=user7;sort=tag:Name
+   For example, if your user name is "user9001", the correct URL would be:
+    https://console.aws.amazon.com/ec2/v2/home?region=us-west-2#Instances:tag:Name=user9001;sort=tag:Name
 
 1. Login in with the assigned Account ID, user name and Password as shown.
 
@@ -88,7 +85,7 @@ There are two ways to connect to the instance - SSH and RDP. Directions for both
 For the first time, it may ask you for the username and password, please use:
 
     username: ubuntu
-    password: xdf_deephi
+    password: sand_xdfd
 
 **SSH Client:**
 ![AWS Login](./images/ssh_login.png)
